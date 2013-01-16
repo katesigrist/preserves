@@ -1,0 +1,4 @@
+preserves
+=========
+
+Preserves wordpress theme.
